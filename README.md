@@ -1,2 +1,2 @@
-# UNSW
-Repository of work completed at UNSW
+# Public Work
+Repository of completed work
