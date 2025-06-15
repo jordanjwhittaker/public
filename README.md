@@ -1,11 +1,11 @@
 # Public Work  
 **Jordan Whittaker – Engineering & Physics Portfolio**  
 
-This repository showcases a selection of my academic and personal engineering and physics projects. It includes CAD models, design reports, simulation results, and experimental analyses developed throughout my education.
+This repository showcases a selection of my academics engineering and physics projects. It includes CAD models, design reports, simulation results, and experimental analyses developed throughout my education.
 
 ---
 
-## Projects  
+## Projects
 
 - **[AtomCraft: SOUTH](./Projects/AtomCraft - SOUTH/)**  
   Plasma diagnostics project for the Student Operated University Tokamak (SOUTH).  
