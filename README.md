@@ -7,7 +7,7 @@ This repository showcases a selection of my academic and personal engineering an
 
 ## Projects  
 
-- **[AtomCraft: SOUTH](./AtomCraft_SOUTH/)**  
+- **[AtomCraft: SOUTH](./Projects/AtomCraft - SOUTH/)**  
   Plasma diagnostics project for the Student Operated University Tokamak (SOUTH).  
   &nbsp;&nbsp;&nbsp;&nbsp;- **[Langmuir Probe](./AtomCraft_SOUTH/Langmuir_Probe/)**
 
