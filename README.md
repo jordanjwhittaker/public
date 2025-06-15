@@ -7,9 +7,9 @@ This repository showcases a selection of my academics engineering and physics pr
 
 ## Projects
 
-- **[AtomCraft: SOUTH](./Projects/AtomCraft - SOUTH/)**  
+- **[AtomCraft: SOUTH](./projects/AtomCraft_SOUTH/)**  
   Plasma diagnostics project for the Student Operated University Tokamak (SOUTH).  
-  &nbsp;&nbsp;&nbsp;&nbsp;- **[Langmuir Probe](./Projects/AtomCraft - SOUTH/Langmuir Probe/)**
+  &nbsp;&nbsp;&nbsp;&nbsp;- **[Langmuir Probe](./projects/AtomCraft_SOUTH/Langmuir_probe/)**
 
 - **[Aerospace Engineering Thesis – Leading-Edge Serrations](./Thesis_LE_Serrations/)**  
   Aerodynamic investigation into the effects of leading-edge serrations on wing performance.
