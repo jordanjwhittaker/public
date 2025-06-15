@@ -11,39 +11,39 @@ This repository showcases a selection of my academics engineering and physics pr
   Plasma diagnostics project for the Student Operated University Tokamak (SOUTH).  
   &nbsp;&nbsp;&nbsp;&nbsp;- **[Langmuir Probe](./projects/AtomCraft_SOUTH/Langmuir_probe/)**
 
-- **[Aerospace Engineering Thesis – Leading-Edge Serrations](./Thesis_LE_Serrations/)**  
+- **[Aerospace Engineering Thesis – Leading-Edge Serrations](./projects/thesis_LE_serrations/)**  
   Aerodynamic investigation into the effects of leading-edge serrations on wing performance.
 
-- **[Nuclear Waste Capsule Monitoring Device](./Nuclear_Monitoring_Device/)**  
+- **[Nuclear Waste Capsule Monitoring Device](./projects/nuclear_waste_monitering/)**  
   Concept for long-term, passive monitoring of nuclear waste storage capsules.
 
-- **[Snowboard Brake](./Snowboard_Brake/)**  
+- **[Snowboard Brake](./projects/snowboard_brake/)**  
   Safety brake for snowboards designed to reduce the risk of runaway boards.
 
-- **[Sweat Management Glove – Palmer Hyperhidrosis](./Sweat_Glove/)**  
+- **[Sweat Management Glove – Palmer Hyperhidrosis](./projects/hyperhydrosis_glove/)**  
   Wearable device for individuals with excessive hand sweating (palmar hyperhidrosis).
 
-- **[Mechanical Arm](./Mechanical_Arm/)**  
+- **[Mechanical Arm](./projects/mechanical_arm/)**  
   Proof-of-concept mechanical design of a hydraulic 3-DOF robotic arm.
 
 ---
 
 ## Physics Laboratories  
 
-- **[Lab Reports & Analysis](./Physics_Labs/)**  
+- **[Lab Reports & Analysis](./physics_laboratories/)**  
   Selection of undergraduate physics experiment reports.
 
 ---
 
 ## Lump Repositories  
 
-- **[Papers](./Papers/)**  
+- **[Papers](./lump_repositories/papers/)**  
   Design reports, technical documentation, and academic writing samples.
 
-- **[CAD Files](./CAD_Files/)**  
+- **[CAD Files](./lump_repositories/CAD_files/)**  
   Consolidated folder of CAD models used across various projects.
 
-- **[Renders](./Renders/)**  
+- **[Renders](./lump_repositories/renders/)**  
   High-quality renders of CAD models from various projects.
 
 ---
