@@ -1,2 +1,4 @@
 # Public Work
-Repository of completed work
+Repository of completed engineering and physics work throughout my education.
+
+
