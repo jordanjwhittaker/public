@@ -5,14 +5,14 @@ Repository of engineering and physics work throughout my education, showcaseing 
 
 Projects
     AtomCraft: SOUTH
-        - Langmuir Probe
+        Langmuir Probe
     Aerospace Engineering Thesis: Aerodynamic investigation into LE-serrations
     Nuclear waste capusle monitering device
     Snowboard Brake
-    Sweat Mangement glove for Palmer Hyperdydrosis
+    Sweat Manegement glove for Palmer Hyperdydrosis
 
 Physics Laboratories
-    
+
 
 
 Lump Repositories
