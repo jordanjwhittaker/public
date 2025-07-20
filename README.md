@@ -1,7 +1,7 @@
 # Public Work  
 **Jordan Whittaker – Engineering & Physics Portfolio**  
 
-This repository showcases a selection of my academics engineering and physics projects. It includes CAD models, design reports, simulation results, and experimental analyses developed throughout my education.
+This repository showcases a selection of my engineering and physics projects. It includes CAD models, design reports, simulation results, and experimental analyses developed throughout my education.
 
 ---
 
