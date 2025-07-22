@@ -1,0 +1,16 @@
+Open(FilePath="/srv/scratch/z5363798/SIMULATIONS/NACA2412_SIN_W2.5_A0.0025_T0.35_S2_C120mm/52/52.wbpj")
+
+designPointList = []
+
+paras = Parameters.GetAllParameters()
+dpManager = Parameters.GetAllDesignPoints()
+numDPs = dpManager.Count
+
+for p in range(numDPs):
+    designPointList.append(Parameters.GetDesignPoint(Name=str(p)))
+
+backgroundSession1 = UpdateAllDesignPoints(DesignPoints=designPointList)
+
+Parameters.ExportAllDesignPointsData(FilePath="/srv/scratch/z5363798/RESULTS/NACA2412_SIN_W2.5_A0.0025_T0.35_S2_C120mm_52.csv")
+
+Save(Overwrite=True)
