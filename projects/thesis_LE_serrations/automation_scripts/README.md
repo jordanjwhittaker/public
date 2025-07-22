@@ -4,7 +4,7 @@ This repository automates the end-to-end process for managing parametric ANSYS W
 
 ---
 
-## 🛠️ 1. Generate the Data File
+## 1. Generate the Data File
 
 Use `CREATE_DATA_TABLE.py` to create the master data spreadsheet containing simulation parameters.
 
@@ -12,13 +12,13 @@ Use `CREATE_DATA_TABLE.py` to create the master data spreadsheet containing simu
 
 ---
 
-## 📂 2. Create a New Temporary Job Folder
+## 2. Create a New Temporary Job Folder
 
 Run `NEW_JOB.py` to generate a uniquely named job folder (e.g., with a timestamp) for simulation files.
 
 ---
 
-## ⚙️ 3. Generate Array Job Scripts
+## 3. Generate Array Job Scripts
 
 Use `ARRAY_JOB_GENERATOR.py` to generate both the job submission script and Workbench journal files.
 
@@ -28,19 +28,19 @@ Use `ARRAY_JOB_GENERATOR.py` to generate both the job submission script and Work
 
 ---
 
-## 🚀 4. Submit the Job to the HPC Cluster
+## 4. Submit the Job to the HPC Cluster
 
 Upload the generated files to your HPC cluster and submit the array job using PBS or your cluster’s job scheduler.
 
 ---
 
-## 📥 5. Scrape Report Files from the Cluster
+## 5. Scrape Report Files from the Cluster
 
 After simulation completion, run `SCRAPE_RESULTS.py` to download all relevant Fluent report files from the cluster.
 
 ---
 
-## 📊 6. Process and Consolidate Results
+## 6. Process and Consolidate Results
 
 Use `PROCESS_RESULTS.py` to process the scraped report data and consolidate it into structured formats for analysis.
 
