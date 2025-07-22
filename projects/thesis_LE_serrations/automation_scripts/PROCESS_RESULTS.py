@@ -47,7 +47,7 @@ for filename in os.listdir(new_folder):
 
             # Move processed file
             shutil.move(csv_path, os.path.join(processed_folder, filename))
-            print(f"✅ Processed: {filename}")
+            print(f"Processed: {filename}")
 
         except Exception as e:
             print(f"Failed to process {filename}: {e}")
